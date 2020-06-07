@@ -13,19 +13,20 @@ cd Laundry-NITK
 ```
 virtualenv -p python3 venv
 source venv/bin/activate
-```
-
-- Install django, django-rest
-
-- Run the dev server
-```
+Install django, django-rest
+Run the dev server
 python manage.py runserver
 
-- To run Frontend :
 ```
+- To run the Frontend :
+```
+
 install react-native and expo
 run sudo npm start
 use expo to launch the application on your android/iOS phone
+
+```
+
 ```
 
 
